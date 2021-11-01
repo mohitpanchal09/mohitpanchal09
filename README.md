@@ -35,7 +35,7 @@
 
 
 ### 📊 Github Stats
-<a>![MohitKumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvalgupta2003&show_icons=true&theme=radical)
-<img alt="MohitKumar's Github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvalgupta2003&layout=compact&hide_border=true&theme=radical" align="right" />
+<a>![MohitKumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohitpanchal09&show_icons=true&theme=radical)
+<img alt="MohitKumar's Github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitpanchal09&layout=compact&hide_border=true&theme=radical" align="right" />
 </a>
 <br>
